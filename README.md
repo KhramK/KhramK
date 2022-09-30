@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋 I'm Ekaterina
 
-<!--
-**KhramK/KhramK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :woman_technologist: About me:
+
+#### :white_medium_square: :nerd_face: I'm QA Engineer
+#### :white_medium_square: :warning: I like to find defects in software
+#### :white_medium_square: :computer: I'm on track for learning more about automatizatoin in the software testing
+
+
+
+### :hammer: Tech Stack
+### 
+Postman
+SOAP
+Atlassian Jira
+SQL
+DevTools
+Figma
+Test case
+Trello
+draw.io
+Git
+Python
